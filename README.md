@@ -11,4 +11,6 @@ I have no idea the limits of what it can do, and I'm sure its very easy to crash
 ## Formula Examples
 `stickNum/15`\
 `stickNum^2/400`\
-`sin((stickNum*10)*(pi/180))`
+`sin((stickNum*10)*(pi/180))`\
+
+![Image Of Twisty](https://github.com/conradrobinson/twisty/blob/main/twisty.png?raw=true)
